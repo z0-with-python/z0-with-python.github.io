@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archive
+title: Blog!
 ---
 
 # 차근차근 하나씩 해볼게요
