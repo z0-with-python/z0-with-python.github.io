@@ -4,26 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+인공지능, 특히 컴퓨터 비전 분야에 눈이 멀어 전직까지도 꿈꿨었지만, 역시나 나와 맞지 않는 길이라며 다시 해외 업무의 길로 돌아온 평범한 회사원입니다.
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+엑셀, 아웃룩을 통한 단순 반복 작업들이 많고 수년 동안 쌓인 데이터들을 감당할 수 없었기에 최근 사무자동화를 위한 파이썬 프로그래밍에 관심을 다시 두기 시작했습니다.
 
-There are currently two themes built on Poole:
+네이버, 티스토리 같은 플랫폼보다는 깃허브 블로그가 그래도 좀 있어보이잖아요? 저와 같은 마음으로 파이썬을 공부하는 분들이 있으시다면, 언제든지 함께해요 :)
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+## 어설퍼도 괜찮아요!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- [Github](https://github.com/z0-with-python)
 
-## Setup
 
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
